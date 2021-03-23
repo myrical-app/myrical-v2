@@ -8,4 +8,4 @@ This project is a WIP (current being built in TypeScript + React Native). More d
 
 Contributions are welcome.
 
-Built and maintained by [**@FilippoFonseca**](https://twitter.com/FilippoFonseca) and [**@MarkMusic2727**](https://twitter.com/markmusic2727).
+Built and maintained with ❤️ by [**@FilippoFonseca**](https://twitter.com/FilippoFonseca) and [**@MarkMusic2727**](https://twitter.com/markmusic2727).
